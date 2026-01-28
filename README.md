@@ -24,3 +24,7 @@ The only modification performed was a **bottom carving (hollowing)** using the *
 ![Screenshot (411)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(411).png)
 
 I tried to make the dimensions of the robot as required, but I didn't change the **width** of the base, so I couldn't meet the **120mm** width requirement.
+
+![Screenshot (413)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(413).png)
+
+I think if the wheels get any thinner, the car won't be able to handle it.
