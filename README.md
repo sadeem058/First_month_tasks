@@ -17,7 +17,7 @@ The only modification performed was a **bottom carving (hollowing)** using the *
 - Layer Height: 0.1 mm
 - Wall loops: 4 mm
 - Sparse infill desity: 50%
-- Generate Support: Yes-15.80g
+- Generate Support: Yes-12.75g
 
 ### Design Preview
 ![Screenshot (411)](https://github.com/sadeem058/First-Week/blob/main/Screenshot%20(411).png)
