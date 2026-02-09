@@ -156,3 +156,70 @@ _______
 
 ![task](https://github.com/sadeem058/First-Week/blob/main/task.jpeg)
 ![solve](https://github.com/sadeem058/First-Week/blob/main/solve.jpeg)
+
+
+
+______
+## Suspension 
+
+# Suspension Top ROD
+Function:
+Connects the suspension system from the top and allows controlled movement with strong fixation.
+
+Design Steps:
+•Sketch a circle to define the rod base, then Extrude it to the required length.
+•Create a thicker top section to support the joint.
+•Add a side hole using Extrude Remove for a circle.
+•Apply Fillet to sharp edges for better strength and smoother shape.
+•To make rod body connect with the nut I made a new sketch in the middle of the circle and drew a triangle on it, which I glued to the top edge of the circle. Then I drew a helix and a sweep.
+
+![Top ROD](https://github.com/sadeem058/First-Week/blob/main/Top%20ROD.png)
+
+
+# Suspension Spring
+Function:
+Absorbs shocks and reduces vibration in the suspension system.
+
+Design Steps:
+•Sketch a circle representing the wire diameter.
+•Create a Helix/Spiral with height (73) and number of turns (6).
+•Use Sweep to sweep the circular profile along the helical path.
+•Add top and bottom end rings to glued spring with nut and with base.
+
+![spring](https://github.com/sadeem058/First-Week/blob/main/spring.png)
+
+
+# Suspension NUT
+
+Function:
+Adjusts and locks the spring position on the rod.
+
+Design Steps:
+•Sketch a circular base and Extrude it to (9) thickness.
+•Create a central hole.
+•Add new sketch trangle (2*2*2).
+•Cut the outer shape into a star  To create the star, I drew a circle with a center point 6 meters from the edges of the main circle. Then I drew two lines along the edges of the circle, connecting them to the end of the main circle. After that, I closed the shape with a midpoint line. Then I duplicated the shape with a circular pattern. Finally, I extruded and removed the shape.
+•Apply small Fillets by new sketch and add trangle after that revolve to smooth the edges.
+•Last step I made a triangle with dimensions (2*2*2) to secure the nut to the base, glued it to the circular object, and created a helix and sweep.
+
+![nut](https://github.com/sadeem058/First-Week/blob/main/nut.png)
+
+
+# Suspension Base
+
+Function:
+Provides bottom support and connects the suspension system to the chassis or arm.
+
+Design Steps:
+•Sketch a circle and Extrude it (3).
+•Add a central vertical shaft (70) to guide the spring.
+•Add a mounting hole aligned with the joint.
+•Apply Fillets to reduce stress concentrations.
+
+![base](https://github.com/sadeem058/First-Week/blob/main/base.png)
+
+
+I assembled all the suspension components in the Assembly workspace.
+I used proper mates to align the parts correctly and make sure the movement looks realistic.
+
+[![suspension](suspension.png)](Suspension%20mov.mp4)
