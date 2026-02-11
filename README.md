@@ -154,9 +154,8 @@ _______
 
 ### Design Preview
 
-![task](https://github.com/sadeem058/First-Week/blob/main/task.jpeg)
-![kenimatics]
-
+![task](https://github.com/sadeem058/First_month_tasks/blob/main/WhatsApp%20Image%202026-02-11%20at%204.01.53%20AM.jpeg)
+![kenimatics](https://github.com/sadeem058/First_month_tasks/blob/main/IMG_1468.jpeg)
 
 
 ______
