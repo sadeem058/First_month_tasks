@@ -155,7 +155,7 @@ _______
 ### Design Preview
 
 ![task](https://github.com/sadeem058/First-Week/blob/main/task.jpeg)
-![solve](https://github.com/sadeem058/First-Week/blob/main/solve.jpeg)
+![kenimatics]
 
 
 
